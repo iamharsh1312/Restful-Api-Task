@@ -1,4 +1,3 @@
-const e = require("express");
 const express = require("express");
 require("../src/db/conn");
 const Student = require("./models/students");
